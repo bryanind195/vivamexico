@@ -1,0 +1,10 @@
+.container{
+    height: calc(100vh - 100px);
+    background-color: orange;
+}
+
+.arrowContainer{
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
