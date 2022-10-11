@@ -25,7 +25,7 @@ const Featured = () => {
             </div>            
         </div>
         <div className={styles.arrowContainer} >
-        <Image src= "/img/arrowr.png" alt="" layout='fill' />
+        <Image src= "/img/arrowr.png" alt="flechas " layout='fill' />
         </div>
     </div>
   )
