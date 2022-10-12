@@ -14,13 +14,13 @@ const Featured = () => {
   return (
     <div className={styles.container} >
         <div className={styles.arrowContainer} >
-        <Image src= "/img/arrowr.png" alt="" layout='fill' />
+        <Image src= "/img/arrowl.png" alt="" layout='fill' />
         </div>
 
         <div className={styles.wrapper}>
             <div className={styles.imgContainer}>
                 {images.map((img, i)=> (
-                <Image src= "/img/pizza.png" key={i} alt="" layout='fill' /> 
+                <Image src= "/img/pizz.png" key={i} alt="" layout='fill' /> 
                 ) ) }            
             </div>            
         </div>
