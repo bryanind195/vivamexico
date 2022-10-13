@@ -1,7 +1,7 @@
 .container {
     height: 100px;
     padding: 0px 50px;
-    background-color: rgb(100, 55, 184);
+    background-color: #4F2582;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -54,8 +54,8 @@
 }
 
 .listItem{
-    margin: 25px;
-    font-size: 20px;
+    margin: 17px;
+    font-size: 17px;
     font-weight: 700;
 }
 
