@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Viva_Mex_Tumbaco</title>
         <meta name="description" content="Refresqueria" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/vivam_ico.ico" />
       </Head>
       <Featured/>
 
