@@ -7,10 +7,10 @@ const Featured = () => {
     const [index, setIndex] = useState(0)
 
   const images= [
-    "/img/vivaport0.jpg",
-    "/img/vivaport2.jpg",
-    "/img/vivaport3.jpg",
     "/img/vivaport4.jpg",
+    "/img/vivaport2.jpg",
+    "/img/vivaport3.jpg"
+    
   ];
   const handleArrow = (direction) =>{
     if(direction==="l"){
