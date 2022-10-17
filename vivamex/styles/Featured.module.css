@@ -1,7 +1,8 @@
 .container{
     height: calc(100vh - 100px);
-    /*background-color: #fabd00ff;*/
-    background-color:#4F2582;
+    background-color: #fcbe00ff;
+    /*background-image: url(../public/img/fondo.svg);
+    background-color:#4F2582;*/
     overflow: hidden;
 }
 

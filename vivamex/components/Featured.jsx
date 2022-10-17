@@ -7,9 +7,9 @@ const Featured = () => {
     const [index, setIndex] = useState(0)
 
   const images= [
-    "/img/vivaport4.jpg",
-    "/img/vivaport2.jpg",
-    "/img/vivaport3.jpg"
+    "/img/doriloco.svg",
+    "/img/esquite.svg",
+    "/img/maruloco.svg"
     
   ];
   const handleArrow = (direction) =>{
@@ -23,6 +23,7 @@ const Featured = () => {
   
   return (
     <div className={styles.container} >
+      <Image src= "/img/fondo.svg" alt="" layout="fill" objectFit="contain"/>
         <div className={styles.arrowContainer} style={{left:0}} onClick={() => handleArrow("l")} >
         <Image src= "/img/arrowl.png" alt="" layout="fill" objectFit="contain"/>
         </div>
