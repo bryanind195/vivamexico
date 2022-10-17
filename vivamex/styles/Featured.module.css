@@ -23,6 +23,7 @@
     display: flex;
     align-items: center;
     justify-content:center;
+    transition: all 1.5s ease-in-out;
 }
 /*
 .swiper {
