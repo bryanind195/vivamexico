@@ -21,7 +21,7 @@ const Featured = () => {
     }
   }
 
-  console.log(index)
+  //console.log(index)
   
   return (
     <div className={styles.container} >
