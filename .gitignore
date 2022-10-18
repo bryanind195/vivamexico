@@ -3,7 +3,9 @@
 # dependencies
 /node_modules
 /.pnp
+/Paquete franquicias
 .pnp.js
+.Paquete franquicias.zip
 
 # testing
 /coverage
