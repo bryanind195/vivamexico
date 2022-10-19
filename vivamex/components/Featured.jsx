@@ -41,7 +41,7 @@ const Featured = () => {
         <Image src= "/img/arrowr.png" alt="" layout="fill" objectFit="contain"/>
         </div>
     </div>
-  )
-}
+  );
+};
 
 export default Featured

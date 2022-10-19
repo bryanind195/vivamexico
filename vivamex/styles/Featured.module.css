@@ -3,7 +3,7 @@
     background-color: #fcbe00ff;
     /*background-image: url(../public/img/fondo.svg);
     background-color:#4F2582;*/
-    overflow: hidden;
+    display: flex;
 }
 
 .arrowContainer{
