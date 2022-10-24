@@ -1,6 +1,6 @@
 .container {
   height: calc(100vh - 100px);
-  background-color: #222;
+  background-color:  #4F2582;
   display: flex;
 }
 
@@ -23,7 +23,7 @@
 
 .title {
   font-size: 18px;
-  color: #b7903c;
+  color: #fcbe00ff;
 }
 
 .text {
