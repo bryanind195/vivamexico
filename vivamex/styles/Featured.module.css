@@ -1,9 +1,8 @@
 .container{
     height: calc(100vh - 100px);
     background-color: #fcbe00ff;
-    /*background-image: url(../public/img/fondo.svg);
-    background-color:#4F2582;*/
-    display: flex;
+    overflow: hidden;
+    position: relative;
 }
 
 .arrowContainer{
@@ -23,26 +22,14 @@
     display: flex;
     align-items: center;
     justify-content:center;
-    transition: all 1s ease-in-out;
-   
-    
+    transition: all 1s ease-in-out;    
 }
-
-
-/*
-.swiper {
-    width: 600px;
-    height: 300px;
-  }*/
 
 .imgContainer{
     width: 100vw;
     height: 90%;
     position: relative;
 }
-
-
-
 @media screen and (max-width: 480px) {
     .container{
       height: 50vh; 
